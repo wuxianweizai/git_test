@@ -14,7 +14,7 @@ func Count(ch chan int, i int) {
 	wg.Done()
 }
 
-//hello word
+//hello word  java go
 
 func main() {
 	wg.Add(11)
