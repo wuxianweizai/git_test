@@ -14,6 +14,8 @@ func Count(ch chan int, i int) {
 	wg.Done()
 }
 
+//hello word
+
 func main() {
 	wg.Add(11)
 	//chs := make([]chan int,10)
